@@ -5,7 +5,7 @@ for(let i=0; i<=15; i++){
 }
 
 let j=0;
-while(j!==16){
+while(j!==15){
   console.log(holidays[j]);
   j++;
 }
